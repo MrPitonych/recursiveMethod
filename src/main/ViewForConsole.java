@@ -3,7 +3,7 @@ package main;
 /**
  * Created by dav19 on 19.03.2017.
  */
-public class viewForConsole {
+public class ViewForConsole {
       public static void viewResult(int[] Price, int[] foundDays){
 
           int firstDay =  foundDays[0];

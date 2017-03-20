@@ -1,8 +1,6 @@
 package main;
 
 
-import java.util.Scanner;
-
 public class recursiveMethod {
 
     static int[] Price = {100, 113, 110, 85, 105, 102, 86, 63, 81, 101, 94, 106, 101, 79, 94}; // Первый пример
@@ -11,7 +9,7 @@ public class recursiveMethod {
     public static void main(String[] args) {
 
         int[] foundDays = findArray();
-        viewForConsole.viewResult(Price, foundDays);
+        ViewForConsole.viewResult(Price, foundDays);
     }
 
 

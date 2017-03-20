@@ -4,7 +4,7 @@ import main.recursiveMethod;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class sortingTest {
+public class SortingTest {
 
     @Test
     public void sortingCheck() throws Exception {
